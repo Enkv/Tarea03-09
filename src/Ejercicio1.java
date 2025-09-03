@@ -9,12 +9,8 @@ public class Ejercicio1 {
         System.out.println("Ingresa una letra");
         String letra = scanner.nextLine();
 
-        int x = 0;
-        for (int i=0; ; i++){
-            char letraSelec = palabra.charAt(i);
-            if (letraSelec==)
-            System.out.println("kdkfjns");
-        }
+
+
 
 
 
